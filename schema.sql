@@ -3,7 +3,7 @@
 * @author Evilnapsis
 
 create database bookmedik;*/
-use bookmedik; 
+use heroku_1d7b04f81589f0c; 
 set sql_mode='';
 create table user (
 	id int not null auto_increment primary key,
